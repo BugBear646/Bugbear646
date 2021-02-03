@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aniket Jha! <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="40"></h2>
-<img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="250">
 <p>Sophomore at <b><a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a></b><img src="https://media.giphy.com/media/5cFJUyNUYbiwNuO8L7/giphy.gif" width="30"</p>
 
 <p><em>Currently jamming at <img src="https://media.giphy.com/media/9XWj9k5l86amuHVKuk/giphy.gif" width="30"</em></p>
@@ -11,9 +11,9 @@
 
 ### <img src="https://media.giphy.com/media/XEOKyyyO3N91igSmnk/giphy.gif" width="50"> A little more about me...  
 
-```python
+```C++
 const AniketJha = {
-  username: Bugbear646"
+  username: "Bugbear646"
   code: [C, C++, Javascript, HTML, CSS, Sass, Python, Java],
   libraries: [openCV, tensorflow, pytorch, scikit learn, flask, numpy, pandas, keras],
   technologies: [sim scale, Gsuite, Solid Works],
@@ -21,7 +21,7 @@ const AniketJha = {
                         Machine Learning;
                         Computer Vision;
                         Graphical User Interface;
-                        Web Interfaces
+                        Web Interfaces;
                       },
  status: "I'm currently surfing pages of tkinter documentation."
 }
