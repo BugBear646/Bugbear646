@@ -1,5 +1,5 @@
 <h2> Hi, I'm ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="GIFS/nobgt.gif" width="450">
+<img align='right' src="https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif" width="450">
 <p><em>Sophomore at <a href="http://www.unb.br">Indian Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
