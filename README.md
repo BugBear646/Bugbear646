@@ -30,7 +30,10 @@ const AniketJha = {
 <img src="https://media.giphy.com/media/QAVANA01VdhOeOFJ5k/giphy.gif" width="60"> I love connecting with different people, so if you want to, just say <b>Hi! </b> I will be happy to connect :heart: .
 
 <p align="center">
-<a href="mailto:aniketjha646@gmail.com" target="blank"><img align="center" src="GIFS/mail.png" alt="aniketjha646" height="30" width="30" padding="10"/></a>
-<a href=""https://www.linkedin.com/in/aniketjha646" target="blank"><img align="center" src="GIFS/linkedin.png" alt="aniket jha" height="30" width="30" padding="10"/></a>
-<a href="https://www.facebook.com/anik3t.jha" target="blank"><img align="center" src="GIFS/linkedin.png" alt="aniket jha" height="30" width="30" padding="10"/></a>
+
+<a href=""https://www.linkedin.com/in/aniketjha646" target="blank"><img  src="GIFS/linkedin.png" alt="aniket jha" height="30" width="30" padding="10"/></a>
+     
+<a href="mailto:aniketjha646@gmail.com" target="blank">< img src="GIFS/mail.png" alt="aniketjha646" height="30" width="30" padding="10"/></a>
+
+<a href="https://www.facebook.com/anik3t.jha" target="blank"><img  src="GIFS/facebook.png" alt="aniket jha" height="30" width="30" padding="10"/></a>
 </p>
