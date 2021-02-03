@@ -25,5 +25,4 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/h2NSwnWdAgCvYdIs1A/giphy.gif" width="50"> <em>I love connecting with different people, so if you want to just say <b>Hi! </b> Iwill be happy to connect  :heart: .</em>
-https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif
+<img src="https://media.giphy.com/media/QAVANA01VdhOeOFJ5k/giphy.gif" width="50"> I love connecting with different people, so if you want to have a conversation, just say <em><b>Hi! </b> I will be happy to have a chat :heart: .
