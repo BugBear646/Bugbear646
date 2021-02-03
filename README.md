@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aniket Jha! <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="40"></h2>
-<img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="270">
 <p>Sophomore at <b><a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a></b><img src="https://media.giphy.com/media/5cFJUyNUYbiwNuO8L7/giphy.gif" width="30"</p>
 
 <p><em>Currently jamming at <img src="https://media.giphy.com/media/9XWj9k5l86amuHVKuk/giphy.gif" width="30"</em></p>
