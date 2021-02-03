@@ -1,7 +1,13 @@
 <h2> Hi, I'm Aniket Jha! <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="300">
-<p><em>Sophomore at <a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a><img src="https://media.giphy.com/media/5cFJUyNUYbiwNuO8L7/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Sophomore at <a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a><img src="https://media.giphy.com/media/5cFJUyNUYbiwNuO8L7/giphy.gif" width="30"</p>
+
+<p align="center">
+  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://andyruwruw.vercel.app/api/now-playing">
+  </a>
+</p>
 
 <a href="https://www.linkedin.com/in/aniketjha646"><i class="ri-linkedin-box-fill"></i></a>
 
