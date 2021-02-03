@@ -29,7 +29,7 @@ const AniketJha = {
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aniketjha646" target="blank"><img align="center" src="GIFS/linkedin.png" alt="aniket jha" height="30" width="30" margin="30" /></a>
-  <a href="mailto:aniketjha646@gmail.com" target="blank"><img align="center" src="GIFS/mail.png" alt="aniketjha646" height="30" width="30" margin="30" /></a>
-  <a href="https://www.facebook.com/anik3t.jha" target="blank"><img align="center" src="GIFS/facebook.png" alt="aniket jha" height="30" width="30" margin="30" /></a>
+  <a href="https://www.linkedin.com/in/aniketjha646" target="blank"><img align="center" src="GIFS/linkedin.png" alt="aniket jha" height="30" width="30" margin="30" />   </a>
+  <a href="mailto:aniketjha646@gmail.com" target="blank"><img align="center" src="GIFS/mail.png" alt="aniketjha646" height="30" width="30" margin="30" />    </a>
+  <a href="https://www.facebook.com/anik3t.jha" target="blank"><img align="center" src="GIFS/facebook.png" alt="aniket jha" height="30" width="30" margin="30" />    </a>
 </p>
