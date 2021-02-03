@@ -6,7 +6,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fxx7fvp0msnbqlk5gzy7n6uv2&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=fxx7fvp0msnbqlk5gzy7n6uv2&redirect=true)
 
-<a href="https://www.linkedin.com/in/aniketjha646"><i class="ri-linkedin-box-fill"></i></a>
+<a href="><i class="ri-linkedin-box-fill"></i></a>
 
 
 ### <img src="https://media.giphy.com/media/XEOKyyyO3N91igSmnk/giphy.gif" width="50"> A little more about me...  
@@ -28,3 +28,9 @@ const AniketJha = {
 ```
 
 <img src="https://media.giphy.com/media/QAVANA01VdhOeOFJ5k/giphy.gif" width="60"> I love connecting with different people, so if you want to, just say <b>Hi! </b> I will be happy to connect :heart: .
+
+<p align="center">
+<a href="https://twitter.com/thevoxium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thevoxium" height="30" width="30" /></a>
+<a href=""https://www.linkedin.com/in/aniketjha646" target="blank"><img align="center" src="GIFS/facebook.png" alt="aniket jha" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100039009814742" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anshul_sharma" height="30" width="30" /></a>
+</p>
