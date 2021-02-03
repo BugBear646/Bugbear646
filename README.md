@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="300">
 <p><em>Sophomore at <a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a><img src="https://media.giphy.com/media/5cFJUyNUYbiwNuO8L7/giphy.gif" width="30"</p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fxx7fvp0msnbqlk5gzy7n6uv2&cover_image=true&theme=default)]
+https://spotify-github-profile.vercel.app/api/callback?code=AQCKAapbjrHue0xjW1QJ-jFDdi80Ic0k3VIQoHtlxMXnBM_44QlTxM9XIWJBMfavIgmMOtOgZkj6LDCUdwi-_ztwKFYJcuOyMe3kU3YrknBN_jDDkZoSQyJPlD2JeWlbJ9swgc1aedR7qnF-SH_bdTPQrPk_HmQqiMcwN4jomXhk1rdOrKE8SJoDH4a0ja3I1yT4WDgUPQ2dUyA_vPb0_EJGG8DSUF5vmJ6dgkASyZCtUYvEoPIFNAY809metkjM29ghPNB6BI6ZfentcfKJwmp0
 
 <a href="https://www.linkedin.com/in/aniketjha646"><i class="ri-linkedin-box-fill"></i></a>
 
