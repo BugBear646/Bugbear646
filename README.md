@@ -19,7 +19,7 @@ const AniketJha = {
                  Machine Learning;
                  Computer Vision;
                  Graphical User Interface;
-                 Web Interfaces;
+                 Web Development;
                                              },
  status: "I'm currently surfing pages of tkinter documentation."
 }
