@@ -1,4 +1,4 @@
-<h2> Hi, I'm ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Aniket Jha! <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.giff" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="300">
 <p><em>Sophomore at <a href="http://www.unb.br">Indian Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
