@@ -30,7 +30,7 @@ const AniketJha = {
 <img src="https://media.giphy.com/media/QAVANA01VdhOeOFJ5k/giphy.gif" width="60"> I love connecting with different people, so if you want to, just say <b>Hi! </b> I will be happy to connect :heart: .
 
 <p align="center">
-<a href="https://twitter.com/thevoxium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thevoxium" height="30" width="30" /></a>
-<a href=""https://www.linkedin.com/in/aniketjha646" target="blank"><img align="center" src="GIFS/facebook.png" alt="aniket jha" height="30" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100039009814742" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anshul_sharma" height="30" width="30" /></a>
+<a href="mailto:aniketjha646@gmail.com" target="blank"><img align="center" src="GIFS/mail.png" alt="aniketjha646" height="30" width="30" /></a>
+<a href=""https://www.linkedin.com/in/aniketjha646" target="blank"><img align="center" src="GIFS/linkedin.png" alt="aniket jha" height="30" width="30" padding_="10"/></a>
+<a href="https://www.facebook.com/anik3t.jha" target="blank"><img align="center" src="GIFS/linkedin.png" alt="aniket jha" height="30" width="30"/></a>
 </p>
