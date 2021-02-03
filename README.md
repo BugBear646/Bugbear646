@@ -10,7 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/XEOKyyyO3N91igSmnk/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```python
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -25,4 +25,4 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/QAVANA01VdhOeOFJ5k/giphy.gif" width="50"> I love connecting with different people, so if you want to have a conversation, just say <em><b>Hi! </b> I will be happy to have a chat :heart: .
+<img src="https://media.giphy.com/media/QAVANA01VdhOeOFJ5k/giphy.gif" width="60"> I love connecting with different people, so if you want to have a conversation, just say <em><b>Hi! </b></em> I will be happy to have a chat :heart: .
