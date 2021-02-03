@@ -18,11 +18,11 @@ const AniketJha = {
   libraries: [openCV, tensorflow, pytorch, scikit learn, flask, numpy, pandas, keras],
   technologies: [sim scale, Gsuite, Solid Works],
   Interest: {
-                        Machine Learning;
-                        Computer Vision;
-                        Graphical User Interface;
-                        Web Interfaces;
-                      },
+                 Machine Learning;
+                 Computer Vision;
+                 Graphical User Interface;
+                 Web Interfaces;
+                                             },
  status: "I'm currently surfing pages of tkinter documentation."
 }
 ```
