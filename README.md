@@ -12,17 +12,18 @@
 ### <img src="https://media.giphy.com/media/XEOKyyyO3N91igSmnk/giphy.gif" width="50"> A little more about me...  
 
 ```python
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+const AniketJha = {
+  username: Bugbear646"
+  code: [C, C++, Javascript, HTML, CSS, Sass, Python, Java],
+  libraries: [openCV, tensorflow, pytorch, scikit learn, flask, numpy, pandas, keras],
+  technologies: [sim scale, Gsuite, Solid Works],
+  Interest: {
+                        Machine Learning;
+                        Computer Vision;
+                        Graphical User Interface;
+                        Web Interfaces
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ status: "I'm currently surfing pages of tkinter documentation."
 }
 ```
 
