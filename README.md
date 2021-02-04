@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aniket Jha! <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="270">
-<p>Sophomore at <b><a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a></b><img src="https://media.giphy.com/media/5cFJUyNUYbiwNuO8L7/giphy.gif" width="30"</p>
+<p>Sophomore at <b><a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a></b><img src="https://media.giphy.com/media/5cFJUyNUYbiwNuO8L7/giphy.gif" width="30"<br>![](https://komarev.com/ghpvc/?username=bugbear646&label=PROFILE+VIEWS&style=plastic&color=brightgreen)</p>
 
 <p><em>Currently jamming at <img src="https://media.giphy.com/media/9XWj9k5l86amuHVKuk/giphy.gif" width="30"</em></p>
 
@@ -24,7 +24,7 @@ const AniketJha = {
  status: "I'm currently surfing pages of tkinter documentation."
 }
 ```
-![](https://komarev.com/ghpvc/?username=bugbear646&label=PROFILE+VIEWS&style=plastic&color=brightgreen)
+
 
 <img src="https://media.giphy.com/media/QAVANA01VdhOeOFJ5k/giphy.gif" width="60"> I love connecting with different people, so if you want to, just say <b>Hi!, </b> I will be happy to reply :heart: .
 
