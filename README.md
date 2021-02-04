@@ -25,6 +25,8 @@ const AniketJha = {
 }
 ```
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <img src="https://media.giphy.com/media/QAVANA01VdhOeOFJ5k/giphy.gif" width="60"> I love connecting with different people, so if you want to, just say <b>Hi!, </b> I will be happy to reply :heart: .
 
 
