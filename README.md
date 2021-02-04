@@ -24,8 +24,7 @@ const AniketJha = {
  status: "I'm currently surfing pages of tkinter documentation."
 }
 ```
-
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![](https://komarev.com/ghpvc/?username=bugbear646&label=PROFILE+VIEWS&style=plastic&color=brightgreen)
 
 <img src="https://media.giphy.com/media/QAVANA01VdhOeOFJ5k/giphy.gif" width="60"> I love connecting with different people, so if you want to, just say <b>Hi!, </b> I will be happy to reply :heart: .
 
