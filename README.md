@@ -2,7 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="270">
 <p>Sophomore at <b><a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a></b><img src="https://media.giphy.com/media/5cFJUyNUYbiwNuO8L7/giphy.gif" width="30"</p>
 
+<!--
 ![](https://komarev.com/ghpvc/?username=bugbear646&label=PROFILE+VIEWS&style=plastic&color=brightgreen)
+--->
 <p><em>Currently jamming at <img src="https://media.giphy.com/media/9XWj9k5l86amuHVKuk/giphy.gif" width="30"</em></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fxx7fvp0msnbqlk5gzy7n6uv2&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=fxx7fvp0msnbqlk5gzy7n6uv2&redirect=true)
