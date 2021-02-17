@@ -25,7 +25,7 @@ const AniketJha = {
                  Graphical User Interface;
                  Web Development;
                                              },
- status: "I'm currently surfing pages of tkinter documentation."
+ status: "I'm currently sleeping😴."
 }
 ```
 
