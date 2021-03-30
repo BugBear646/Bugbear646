@@ -36,7 +36,7 @@ const AniketJha = {
 <p align="center">
   <a href="https://www.linkedin.com/in/aniketjha646" target="blank"><img align="center" src="GIFS/linkedin.svg" alt="aniket jha" height="30" width="30" margin="30" />   </a>
   <a href="mailto:bugbear646@gmail.com" target="blank"><img align="center" src="GIFS/google.svg" alt="aniketjha646" height="30" width="30" margin="30" />    </a>
-  <a href="https://wa.me/916205484451" target="blank"><img align src="GIFS/whatsapp.gif" alt="aniket jha" height ="30" width="30" margin="30" />   </a>
+  <a href="https://wa.me/916205484451" target="blank"><img align src="GIFS/whatsapp.svg" alt="aniket jha" height ="30" width="30" margin="30" />   </a>
   <a href="https://www.facebook.com/anik3t.jha" target="blank"><img align="center" src="GIFS/facebook.svg" alt="aniket jha" height="30" width="30" margin="30" />    </a>
   <a href="https://t.me/anik3t_jha" target="blank"><img align="center" src="GIFS/telegram.svg" alt="aniket jha" height="30" width="30" margin="30" />    </a>
 </p>
