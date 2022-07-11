@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aniket Jha! <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="270">
-<p>Junior at <b><a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a></b><img src="https://media.giphy.com/media/AkwCtWNtPR7tgPrbls/giphy.gif" width="30"</p>
+<p>Senior at <b><a href="http://iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a></b><img src="https://media.giphy.com/media/AkwCtWNtPR7tgPrbls/giphy.gif" width="30"</p>
 
 <!---
 ![](https://komarev.com/ghpvc/?username=bugbear646&label=PROFILE+VIEWS&style=plastic&color=brightgreen)
